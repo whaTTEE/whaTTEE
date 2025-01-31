@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 <img src="By I, <a href="//commons.wikimedia.org/wiki/User:Malene" title="User:Malene">Malene</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=202542">링크</a>" />
 
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
