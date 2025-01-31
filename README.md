@@ -3,7 +3,8 @@ Hello,
 
 My name is Junwoo Lee, and I am a senior in the Department of Mechanical Engineering at Changwon National University.
 
-I am currently fascinated by autonomous driving technology and am studying hard to contribute to the technological advancement of South Korea.
+I am currently fascinated by autonomous driving technology
+and am studying hard to contribute to the technological advancement of South Korea.
 
 Thank you.
 
