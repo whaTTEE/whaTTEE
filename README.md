@@ -8,5 +8,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
-
+export const ANIMATION_MODELS = ["waving", "venom"];
+export const NORMAL_MODELS = ["cylinder", "egg", "rect", "rounded", "shark", "slice", "soft", "wave"];
 
