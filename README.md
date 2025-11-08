@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Junwoo_Lee&desc=Be%20a%20first%20mover,%20not%20a%20fast%20follower&descSize=20&descAlignY=30&animation=fadeIn&color=87CEEB&height=200)
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="551px" height="217px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -83,14 +82,4 @@
             <text text-anchor="middle" x="370" y="190" class="desc" stroke="#none" stroke-width="1" >31,390</text>
             <text text-anchor="middle" x="450" y="190" class="desc-2" stroke="#none" stroke-width="1" >위</text>
         </svg>
-
-
-<p style="font-family: Arial; font-weight: bold;">
-    Hello😸 <br><br>
-    My name is Junwoo-Lee, and I am a senior in the Department of Mechanical Engineering at Changwon National University. <br><br>
-    I am currently fascinated by autonomous driving technology and am studying hard to contribute to the technological advancement of South Korea. <br>
-   <br><br>
-    Thank you.
-</p>
-
-
+        
