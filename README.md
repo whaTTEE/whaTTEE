@@ -1,2 +1,2 @@
-[lib/result.svg
-](https://github.com/whaTTEE/github-programmers-rank/blob/master/lib/result.svg)
+
+<img src="https://github.com/whaTTEE/github-programmers-rank/blob/master/lib/result.svg">
